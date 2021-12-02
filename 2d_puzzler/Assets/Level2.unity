@@ -1930,7 +1930,7 @@ PrefabInstance:
     - target: {fileID: 114597582245056518, guid: 6944084f5f860164e89d6e632cdff13d,
         type: 3}
       propertyPath: viewFov
-      value: 17
+      value: 43
       objectReference: {fileID: 0}
     - target: {fileID: 114597582245056518, guid: 6944084f5f860164e89d6e632cdff13d,
         type: 3}
